@@ -1,0 +1,9 @@
+rootProject.name = 'practice'
+
+include ":collections"
+include ":doNotModify"
+include ":expressions"
+include ":functions"
+include ":intro"
+include ":kotlin_conversion"
+
